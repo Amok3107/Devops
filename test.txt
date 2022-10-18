@@ -3,4 +3,5 @@ welcome to Devops class
 Welcome
 
 Today is Tuesday
+Tomorrow is Wednesday
 
